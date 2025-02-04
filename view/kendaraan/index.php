@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Data Kendaraan Baru Bilqif</h1>
+    <a href="tambah.php">Tambah</a>
     <table border="2">
         <tr>
             <th>no.</th>
